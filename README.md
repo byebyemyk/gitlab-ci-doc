@@ -23,7 +23,7 @@
 
 [开始使用 GitLab CI]: quick_start.md  
 [各种语言的CI示例]: examples.md  
-[启用和禁用GitLab CI]: enableCi.md
+[启用和禁用GitLab CI]: enable_or_disable_ci.md
 [.gitlab-ci.yml使用]: ciWork.md
 [配置runner运行应用程序构建]: configRunner.md
 [使用Docker镜像]: useDockerImages.md
