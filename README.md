@@ -21,7 +21,7 @@
   * [CI服务(有关dcoker容器)]
 
 
-[开始使用 GitLab CI]: getstart.md  
+[开始使用 GitLab CI]: quick_start.md  
 [各种语言的CI示例]: examples.md  
 [启用和禁用GitLab CI]: enableCi.md
 [.gitlab-ci.yml使用]: ciWork.md
