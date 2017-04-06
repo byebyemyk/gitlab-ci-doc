@@ -1,7 +1,7 @@
 
 ## 启用或禁用GitLab CI
 
-要有效的使用GitLab CI，你需要一个合法的[.gitlab-ci.yml](http://git.daojia-inc.com/help/ci/yaml/README.md)文件和一个正确设置的[runner](http://git.daojia-inc.com/help/ci/runners/README.md)。你可以通过阅读[开始使用 GitLab CI](quick_start.md)开始。如果你使用其他的CI服务器像`Jenkins`或者`Drone CI`，我们建议禁用GitLab CI防止提交状态出现出现冲突。
+要有效的使用GitLab CI，你需要一个合法的[.gitlab-ci.yml](http://git.xxx-inc.com/help/ci/yaml/README.md)文件和一个正确设置的[runner](http://git.xxx-inc.com/help/ci/runners/README.md)。你可以通过阅读[开始使用 GitLab CI](quick_start.md)开始。如果你使用其他的CI服务器像`Jenkins`或者`Drone CI`，我们建议禁用GitLab CI防止提交状态出现出现冲突。
 
 在GitLab 8.2，GitLab主要在项目`/builds`页面显示。禁用GitLab不会删除任何先前的构建。尽管 Gitlab CI从左边菜单栏隐藏，但实际上依然可以从 `/builds`页面访问到。
 

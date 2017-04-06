@@ -1,11 +1,11 @@
 
 ## CI 示例
 
-* [Testing a PHP application](http://git.daojia-inc.com/help/ci/examples/php.md)
-* [Test and deploy a Ruby application to Heroku](http://git.daojia-inc.com/help/ci/examples/test-and-deploy-ruby-application-to-heroku.md)
-* [Test and deploy a Python application to Heroku](http://git.daojia-inc.com/help/ci/examples/test-and-deploy-python-application-to-heroku.md)
-* [Test a Clojure application](http://git.daojia-inc.com/help/ci/examples/test-clojure-application.md)
-* [Using dpl as deployment tool](http://git.daojia-inc.com/help/ci/deployment/README.md)
+* [Testing a PHP application](http://git.xxx-inc.com/help/ci/examples/php.md)
+* [Test and deploy a Ruby application to Heroku](http://git.xxx-inc.com/help/ci/examples/test-and-deploy-ruby-application-to-heroku.md)
+* [Test and deploy a Python application to Heroku](http://git.xxx-inc.com/help/ci/examples/test-and-deploy-python-application-to-heroku.md)
+* [Test a Clojure application](http://git.xxx-inc.com/help/ci/examples/test-clojure-application.md)
+* [Using dpl as deployment tool](http://git.xxx-inc.com/help/ci/deployment/README.md)
 * 帮助你最喜欢的编程语言和GitLab发送一个`merge request`指南
 
 ## 外部文档

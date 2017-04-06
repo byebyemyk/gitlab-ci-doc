@@ -3,7 +3,7 @@
 
 本文档描述`.gitlab-ci.yml使用`，GitLab `Runner`使用这个文件去管理项目的构建。
 
-如果你需要GitLab CI的快速介绍，点击[快速指南](http://git.daojia-inc.com/help/ci/quick_start/README.md)
+如果你需要GitLab CI的快速介绍，点击[快速指南](http://git.xxx-inc.com/help/ci/quick_start/README.md)
 
 **表格内容**通过[DocToc](https://github.com/thlorenz/doctoc)生成
 
@@ -100,7 +100,7 @@ job1:
 
 ### `image and services`
 
-允许指定自定义的`Docker`镜像和一系列的服务列表。这些功能的配置在一个 [单独的文档](http://git.daojia-inc.com/help/ci/docker/README.md)
+允许指定自定义的`Docker`镜像和一系列的服务列表。这些功能的配置在一个 [单独的文档](http://git.xxx-inc.com/help/ci/docker/README.md)
 
 ### `before_script`
 
@@ -383,4 +383,4 @@ job:
 
 
 
-[Use Docker]: http://git.daojia-inc.com/help/ci/docker/README.md  
+[Use Docker]: http://git.xxx-inc.com/help/ci/docker/README.md  

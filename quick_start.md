@@ -71,7 +71,7 @@ rubocop:
 
 如果你想检查`.gitlab-ci.yml`文件是否有效，GitLab 实例有一个检查工具`/ci/lint`页面。或者在项目中的`Settings > CI settings`查找。
 
-寻找更多完整的`.gitlab-ci.yml`语法，访问[.gitlab-ci.yml文档](http://git.daojia-inc.com/help/ci/yaml/README.md)
+寻找更多完整的`.gitlab-ci.yml`语法，访问[.gitlab-ci.yml文档](http://git.xxx-inc.com/help/ci/yaml/README.md)
 
 ### Push `.gitlab-ci.yml` 文件
 
@@ -102,13 +102,13 @@ git push origin master
 
 `Runner`可以服务特定某个项目或服务多个GitLab项目。服务所有项目的叫`Shared Runner`
 
-寻找更多关于`Runners`信息参考[Runners](http://git.daojia-inc.com/help/ci/runners/README.md)文档。
+寻找更多关于`Runners`信息参考[Runners](http://git.xxx-inc.com/help/ci/runners/README.md)文档。
 
 你可以在`Settings > Runners`找到关于你项目的`Runner`。建立一个`Runenr`很简单。官方GitLab支持的`Runner`采用`Go`来写，可以在[https://gitlab.com/gitlab-org/gitlab-ci-multi-runner](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner)里面找到。
 
 为了一个有功能的`Runner`你需要执行两步：
 1. [安装](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/tree/master#installation)
-2. [配置](http://git.daojia-inc.com/help/ci/runners/README.md#registering-a-specific-runner)
+2. [配置](http://git.xxx-inc.com/help/ci/runners/README.md#registering-a-specific-runner)
 
 按照上面的链接设置自己的`Runner`或者使用下一节描述的`Shared Runner`
 
@@ -126,7 +126,7 @@ git push origin master
 
 启用`Shared Runners`需要去`Settings > Runners`点击`Enable shared runners`。
 
-[点击阅读更多关于`Shared Runners`](http://git.daojia-inc.com/help/ci/runners/README.md)
+[点击阅读更多关于`Shared Runners`](http://git.xxx-inc.com/help/ci/runners/README.md)
 
 ### 查看构建状态
 
@@ -144,7 +144,7 @@ git push origin master
 
 如果你想接收编译状态的电子邮件，应该在项目下启用`Builds Emails`服务设置。
 
-更多信息阅读[编译emails服务文档](http://git.daojia-inc.com/help/project_services/builds_emails.md)
+更多信息阅读[编译emails服务文档](http://git.xxx-inc.com/help/project_services/builds_emails.md)
 
 ### 编译徽章
 
@@ -156,4 +156,4 @@ git push origin master
 
 ### 实例
 
-访问[examples README](http://git.daojia-inc.com/help/ci/examples/README.md)查看各种语言使用GitLab CI的例子。
+访问[examples README](http://git.xxx-inc.com/help/ci/examples/README.md)查看各种语言使用GitLab CI的例子。
